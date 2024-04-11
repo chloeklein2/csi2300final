@@ -1,5 +1,6 @@
 
 simple instructions:
+  
   use the save and open buttons in the top left to save and open files
   to change brush size type in the desired brush size in the brush size textfield and then click the confirm button next to it to set it
   to change color use the colorpicker next to the open button
